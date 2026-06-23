@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+SECURITY+SYSTEM...;PENETRATION+TESTER+MODE+ACTIVE;THREAT+DETECTION+ENGAGED" />
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"
+       style="border-radius:15px; box-shadow:0px 0px 25px #00ff88;" />
 </p>
 # 👋 Hi, I'm Ahmed refat
 
