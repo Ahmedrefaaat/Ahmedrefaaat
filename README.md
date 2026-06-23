@@ -3,14 +3,7 @@
 </p>
 ---
 <p align="center">
-<pre style="color:#00ff41;">
-      .-.
-     (o o)   HACKER MODE
-     | O \   SYSTEM ONLINE
-      \   \
-       `~~~'
-    💀 CYBER SECURITY 💀
-</pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=💀+SYSTEM+BREACHED...;💀+FIREWALL+DISABLED;💀+ROOT+ACCESS+GRANTED;💀+CYBER+THREAT+MODE+ACTIVE" />
 </p>
 
 # 👋 Hi, I'm Ahmed refat
