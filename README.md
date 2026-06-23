@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Ahmed refaat&fontSize=40&fontColor=00ff88" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Ahmedrefaat&fontSize=40&fontColor=00ff88" />
 </p>
 
 ---
