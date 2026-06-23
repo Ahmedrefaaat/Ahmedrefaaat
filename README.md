@@ -118,11 +118,6 @@ Arduino-based simulation using state machines
 
 ---
 
-## 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedrefaaat&label=Profile%20Views&color=00ff88&style=flat" />
-</p>
 
 ---
 
