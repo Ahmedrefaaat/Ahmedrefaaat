@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+SECURITY+SYSTEM...;PENETRATION+TESTER+MODE+ACTIVE;THREAT+DETECTION+ENGAGED" />
   
+<!-- 3D Hacker Avatar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="340"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="340" />
 </p>
 
+<!-- Cyber Glow Frame -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=INITIALIZING+HACKER+ENVIRONMENT...;ACCESS+GRANTED...;ENCRYPTION+BREACHED...;CYBER+MODE+ACTIVE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=CYBER+SECURITY+ENGINEER;PENETRATION+TESTER;THREAT+DETECTION+ACTIVE;SYSTEM+BREACHED" />
 </p>
 # 👋 Hi, I'm Ahmed refat
 
