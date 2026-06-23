@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+SECURITY+SYSTEM...;PENETRATION+TESTER+MODE+ACTIVE;THREAT+DETECTION+ENGAGED" />
 </p>
 ---
+<p align="center">
+<pre style="color:#00ff41;">
+      .-.
+     (o o)   HACKER MODE
+     | O \   SYSTEM ONLINE
+      \   \
+       `~~~'
+    💀 CYBER SECURITY 💀
+</pre>
+</p>
 
 # 👋 Hi, I'm Ahmed refat
 
