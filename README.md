@@ -3,127 +3,87 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l0HU7JI1XkW6Yq9zq/giphy.gif" width="360"/>
 </p>
-# 👋 Hi, I'm Ahmed refat
+# 🛡️ Ahmed Khaled Refat Rashwan
 
-💻 Cybersecurity Student | 🎓 DEPI Scholar | 🛡️ Threat Detection Enthusiast
-
----
-
-## 🌟 About Me
-
-- 🎓 DEPI Scholar (Digital Egypt Pioneers Initiative)  
-- 🔍 Focused on Penetration Testing & Network Security  
-- 🧠 Passionate about Malware Analysis & Red Teaming  
-- ⚙️ Integrating AI + Cybersecurity + Embedded Systems  
-- 🎯 Goal: Securing Cyber-Physical Systems (CPS)
+### Cyber Security Specialist | Fresh Graduate | SOC & Penetration Testing | AI Security Enthusiast
 
 ---
 
-## 🛠 Technical Skills
+## 👨‍💻 About Me
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,git,linux" />
-</p>
+I am a **Fresh Graduate Cyber Security Specialist** focused on understanding and securing real-world systems.
+
+I work on analyzing vulnerabilities, detecting threats, and improving system security through both defensive and offensive security practices.
+
+My interest lies in combining **Cyber Security + AI** to build smarter and more adaptive defense systems.
 
 ---
 
-### 🔐 Cybersecurity Tools
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux" />
-</p>
+## 🔐 Interests & Focus Areas
 
-- Metasploit  
-- Nmap  
-- Burp Suite  
-- Wireshark  
-- Snort  
+- Security Operations Center (SOC)
+- Threat Detection & Incident Response
+- Penetration Testing & Ethical Hacking
+- Malware Analysis & Reverse Engineering
+- AI for Cyber Security Applications
+
+---
+
+## 🧰 Tools & Technologies
+
+- Kali Linux  
 - Splunk  
-- Azure Sentinel  
+- Burp Suite  
+- Metasploit Framework  
+- Nmap  
+- Wireshark  
+- Python  
 
 ---
 
-### ⚙️ Embedded & AI Tools
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
-</p>
+## 🚀 Projects
 
-- OpenCV  
-- NumPy  
-- IoT Systems  
+### 🧠 Cybersecurity Sandbox Platform
+AI-powered sandbox system for analyzing suspicious files and malware safely.
 
----
-
-## 📌 Featured Projects
-
-### 🕵️ Shadow-Logger
-⚠️ Educational red-teaming project  
-- Keylogging simulation  
-- Background process execution  
-- Malware behavior analysis  
+- Behavioral analysis of threats  
+- IOC extraction  
+- Isolated execution environment  
+- AI-based detection support  
 
 ---
 
-### 🔐 Network Security Project (NTI)
-- VLANs & ACLs design  
-- OSPF routing  
-- Firewall & VPN configuration  
+### 🕵️ Face Recognition Security System
+Security-focused identity verification system with research contribution (IEEE publication).
 
 ---
 
-### 🚩 Metasploitable 2 Exploitation
-- Recon with Nmap  
-- Exploitation via Metasploit  
-- Privilege escalation  
+### 🦠 Malware Analysis Framework
+Framework designed to analyze malware behavior and detect attack patterns.
 
 ---
 
-### ⛓️ Secure Socket Blockchain
-- Python socket programming  
-- Raspberry Pi integration  
-- Secure communication system  
+### 🗄 Secure Database System
+Secure MySQL-based database project applying security principles.
 
 ---
 
-### 🚦 Smart Traffic System
-Arduino-based simulation using state machines  
+## 🎯 Career Goal
+
+To grow as a **Cyber Security Engineer** and contribute to building secure, resilient, and intelligent defense systems against modern cyber threats.
 
 ---
 
-## 🧪 Labs & Research
+## 🌍 Languages
 
-- Malware Analysis Sandbox  
-- SIEM Monitoring (Splunk / Sentinel)  
-- Cloud Security Labs  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedrefaaat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedrefaaat&layout=compact&theme=tokyonight" />
-</p>
+- Arabic — Native  
+- English — Professional Working Level  
 
 ---
 
-## 🏆 Trophies
+## ⚡ Final Note
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedrefaaat&theme=matrix&no-frame=true&row=1" />
-</p>
-
----
-
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Ahmedrefaaat
+> Security is not just tools… it’s understanding how systems break and how to stop them.
 
 ---
 
