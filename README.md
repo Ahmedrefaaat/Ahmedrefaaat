@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+SECURITY+SYSTEM...;PENETRATION+TESTER+MODE+ACTIVE;THREAT+DETECTION+ENGAGED" />
   
 <p align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6u6s/giphy.gif" width="320"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=ETHICAL+HACKER;PENETRATION+TESTER;CYBER+SECURITY+ENGINEER;THREAT+DETECTION+ACTIVE" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
 </p>
 # 👋 Hi, I'm Ahmed refat
 
